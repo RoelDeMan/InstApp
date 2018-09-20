@@ -1,0 +1,14 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "dependencies": {
+    "facebook-sdk": "^0.3.2",
+    "fcm": "^1.0.3",
+    "firebase": "^4.9.0",
+    "firebase-admin": "~4.2.1",
+    "firebase-functions": "^0.8.1",
+    "react-native-fcm": "^11.3.1",
+    "request": "^2.81.0"
+  },
+  "private": true
+}

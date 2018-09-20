@@ -1,0 +1,35 @@
+1. Ga naar de folder 'Platform-tools'.
+2. Ga naar url verkenner balk en klik erop.
+3. Type 'CMD' en uw huidige 'Command prompt' venster wordt geopend in de huidige folder.
+4. Voer vervolgens de onderste regel in en druk op 'Enter':
+
+adb reverse tcp:8081 tcp:8081
+
+
+
+=======
+INDEX CODE VAN FCM FUNCTIONS VAN FIREBASE HALEN
+=======
+
+firebase deploy --only functions
+
+apk deploy
+
+maak index.android.js of index.ios.js --> index.js
+cd android
+gradlew assembleRelease --console plain
+
+HBvCM9ft2kjIufVgjowJMSLrdFs=
+
+keytool -exportcert -alias InstApp -keystore C:\Users\Roel\Desktop\openssl\bin | C:\Users\Roel\Desktop\openssl\bin\openssl.exe sha1 -binary | C:\Users\Roel\Desktop\openssl\bin\openssl.exe base64
+
+kz3Tkml1K5ABF1fZLkPBL+5QpkM=
+
+http://keystore-explorer.org/downloads.html
+
+keytool -exportcert -list -v -alias firebasekey -keystore C:\Users\Roel\WebstormProjects\CIM_routesNaarMobiliteit\instapp\InstApp\android\app\my-release-key.keystore
+
+
+
+Wxignizk7d2eBAz2HC7PNhiucr5lBZcem+DvQfmJjrA=
+teamspeak recover key
